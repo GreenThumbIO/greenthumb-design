@@ -1,0 +1,66 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "35608262-4230-451A-80C4-E7F771B7E728",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F3749330-942C-4C2A-84E5-F7164BFABB79",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "076072F9-28E2-4D67-B683-06AD1389D674",
+    "height": 120,
+    "width": 528,
+    "x": 80,
+    "y": 1944
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "66947BFC-6F28-463D-8B01-4A5EE856247F"
+    },
+    {
+      "class": "group",
+      "id": "03007A7D-2C5C-4AE0-9C44-454FC9FFA5BE"
+    }
+  ],
+  "name": "Slack",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "8B947B3B-571D-45CE-A58E-4388C78A7D79",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

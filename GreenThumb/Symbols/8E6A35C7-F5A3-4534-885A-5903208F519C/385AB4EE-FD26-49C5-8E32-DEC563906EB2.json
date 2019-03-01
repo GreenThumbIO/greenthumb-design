@@ -1,0 +1,79 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "385AB4EE-FD26-49C5-8E32-DEC563906EB2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "20EF5523-F474-43A7-8322-BC75C09C98AD",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "E082DA18-56BB-4479-9197-1C0E2D89AA29",
+    "height": 16,
+    "width": 16,
+    "x": 95,
+    "y": 8
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Icon",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "6DBD7394-1DCA-44C5-8B56-3D8E172DF161",
+      "overrideName": "1EB27089-25B4-4FCD-A97C-8609E9EA65A9_layerStyle",
+      "value": "BB9F1BAB-D618-4A19-A9E8-8F46B994EDD9"
+    }
+  ],
+  "resizingConstraint": 44,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A2A74A13-EB4E-4F84-A4DD-49EB5F0F31B4",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "ADB607A4-8F97-4C2E-8C64-C1C867275CFF",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 16,
+            "enabled": 1,
+            "modelID": "constraint_5dc02e5f-beb2-407b-91a5-70cb13658c81",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 16
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_c6ee8962-a666-465c-804b-2bf91637ac38",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

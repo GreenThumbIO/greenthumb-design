@@ -1,0 +1,94 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "BD1F9E52-78F2-4B8D-B9B5-12B22BF97ECC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B336322E-AD6F-40B5-A2EA-43ECC5E7E5DF",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "53FC547A-69DB-4B7D-B9A2-D5BE56984412",
+    "height": 40,
+    "width": 40,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Button/Large - Left Icon",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "CF376637-A937-428D-8F76-559345AD5264",
+      "overrideName": "2B71C2AC-6FFF-4287-B446-8ABC87B8C6BA_symbolID",
+      "value": "32681084-681D-4247-9307-F72720EB9253"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "8CD695CA-415F-42BF-8FAD-46472DAAFDF1",
+      "overrideName": "A1C55BE8-B87D-45A5-A918-40C53C91B6F8/D84DD281-F822-4012-8803-6B5B400004D4_layerStyle",
+      "value": "52375ED8-8F6F-4B7A-8C4A-6D2516D18877"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D30E3522-A33D-41A0-BE5E-B1D82DA37E3C",
+      "overrideName": "2B71C2AC-6FFF-4287-B446-8ABC87B8C6BA/76813ED4-DED5-4B93-828D-5900C1B5852B_layerStyle",
+      "value": "BB9F1BAB-D618-4A19-A9E8-8F46B994EDD9"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "931EF8CE-5DD3-4EDC-A38A-5792B4D7C643",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "88BE043C-5B5A-4B7E-B54F-E48AAEE7C794",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "stashedSizeV": [
+          {
+            "constant": 0,
+            "enabled": 0,
+            "modelID": "constraint_9e40a188-bafa-4ed8-9748-19628030f57f",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 0
+          },
+          {
+            "constant": 0,
+            "enabled": 0,
+            "modelID": "constraint_3b25123e-7b8a-45eb-aa38-e62d11150707",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 0
+          }
+        ]
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

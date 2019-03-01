@@ -1,0 +1,83 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "80F64914-B011-4F02-9FBF-FE601DA7C6D7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 32,
+    "width": 88,
+    "x": 176,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Button/Small",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "4F95E599-AE64-4634-A5FF-795E41658028_symbolID",
+      "value": "F65E7B9D-C6DC-4E1C-881E-46408EE332EE"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "4F95E599-AE64-4634-A5FF-795E41658028/7666C471-E15B-4330-AB00-FDA8020EF5BA_layerStyle",
+      "value": "B04554CE-FD59-4ED4-ABF8-97005F970C60"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "5124C9F7-7F6D-40BB-ABB5-8C8BE1C1CB5D",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "stashedSizeV": [
+          {
+            "constant": 101,
+            "enabled": 0,
+            "modelID": "constraint_5371e577-ae45-4709-a145-822fc4e78fbf",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 0
+          },
+          {
+            "constant": 40,
+            "enabled": 0,
+            "modelID": "constraint_fa41209c-50ce-4528-977e-4ba6d93d33a8",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 0
+          }
+        ]
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

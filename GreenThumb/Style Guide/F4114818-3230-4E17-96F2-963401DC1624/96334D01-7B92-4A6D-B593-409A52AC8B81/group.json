@@ -1,0 +1,66 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "96334D01-7B92-4A6D-B593-409A52AC8B81",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "34E64491-5536-404B-96CE-F2E9248937A3",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "4736AD50-D3A6-41A4-B2CB-EFD4BDF39352",
+    "height": 120,
+    "width": 528,
+    "x": 80,
+    "y": 1400
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "36029489-0E8F-4253-AAC2-4DE72249C731"
+    },
+    {
+      "class": "group",
+      "id": "0FED0A60-B22D-411B-B594-BFBE17F004A2"
+    }
+  ],
+  "name": "Paypal",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "07A24B2A-0D6A-4247-BB1B-1CA246A9DAA8",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

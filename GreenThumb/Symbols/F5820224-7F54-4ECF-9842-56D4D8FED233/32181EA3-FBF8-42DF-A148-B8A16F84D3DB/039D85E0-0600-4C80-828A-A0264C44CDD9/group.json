@@ -1,0 +1,83 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "039D85E0-0600-4C80-828A-A0264C44CDD9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B2711FBB-B7CF-4FA7-846F-8151CCDF3CC6",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "180810FB-75C2-4565-B28D-3F4DE7C11C48",
+    "height": 32,
+    "width": 192,
+    "x": 304,
+    "y": 8
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "2E0FA39F-25E6-42CA-8F4E-016E2A13FE1A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8C76EE10-AD40-4DF5-A7D7-C3CF757351D8"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3780937D-C0C5-4626-A113-D8167668E856"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0E103C58-B986-4849-91AE-958175977890"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "38919294-D47B-4029-A0CE-8D811C1BFA11"
+    }
+  ],
+  "name": "Social Media Buttons",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "39D49540-868B-4876-A783-0D72587F1C9F",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "align": 0,
+        "isCollapsing": 1,
+        "spacing": 8,
+        "stackType": 1
+      },
+      "kViewTypeKey": "ADModelStackView"
+    }
+  }
+}

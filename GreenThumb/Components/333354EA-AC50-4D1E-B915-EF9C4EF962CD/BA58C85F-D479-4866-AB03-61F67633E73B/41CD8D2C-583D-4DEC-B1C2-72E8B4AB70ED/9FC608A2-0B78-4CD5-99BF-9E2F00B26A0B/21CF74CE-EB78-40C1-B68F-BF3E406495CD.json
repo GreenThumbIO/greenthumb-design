@@ -1,0 +1,94 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "21CF74CE-EB78-40C1-B68F-BF3E406495CD",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "46C9055C-F3C9-40A7-AF2B-9D49C79D0CBB",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "00C34C65-A951-4ACD-81DB-2B798D83F9C7",
+    "height": 32,
+    "width": 80,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Button/Small - Left Icon",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "37277DD6-C9FB-4B88-BE88-96A59812B42E",
+      "overrideName": "2C3626B2-5313-4164-883B-D78784CAC93A_stringValue",
+      "value": "Cancel"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "9F4E2E7B-7B6D-4201-8117-4B08C98EC500",
+      "overrideName": "64061543-4C1D-4E87-8A3C-8FA4C83C7733/D84DD281-F822-4012-8803-6B5B400004D4_layerStyle",
+      "value": "937B0482-4AD0-43D1-88FE-32D133C8BDF2"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "68FA00B1-8CA2-4C60-94DD-FF154F33DB2A",
+      "overrideName": "2C3626B2-5313-4164-883B-D78784CAC93A_textStyle",
+      "value": "3D993A0E-5A9C-4940-94DE-DC56AB5C9F25"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C86E830B-7202-4526-BB0E-AF3D26F07DF3",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "060EC05A-1679-4089-959D-EC433C3C6363",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "stashedSizeV": [
+          {
+            "constant": 0,
+            "enabled": 0,
+            "modelID": "constraint_4a292cbf-8662-4980-a95a-2bba83cfe1d1",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 0
+          },
+          {
+            "constant": 0,
+            "enabled": 0,
+            "modelID": "constraint_741489f0-d587-40f6-9055-a3114333251b",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 0
+          }
+        ]
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

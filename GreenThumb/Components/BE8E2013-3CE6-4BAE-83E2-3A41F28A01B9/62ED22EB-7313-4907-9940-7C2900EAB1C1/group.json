@@ -1,0 +1,66 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "62ED22EB-7313-4907-9940-7C2900EAB1C1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7F642E75-E22E-42DA-9AD2-64764FC83BC4",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "752413BB-FF89-44E4-A421-2E3351646D4F",
+    "height": 228,
+    "width": 264,
+    "x": 24,
+    "y": 628
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "9FEFBD90-356B-4CB5-ACE8-0DE2330A9527"
+    },
+    {
+      "class": "group",
+      "id": "67BCB7B3-41A2-494B-B319-7499F0270014"
+    }
+  ],
+  "name": "Card/Type D",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "918CB274-CA7F-40B9-8F19-FBF07D52A9B2",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

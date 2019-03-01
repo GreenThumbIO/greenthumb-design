@@ -1,0 +1,66 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "F0859441-02DA-43D4-B3D3-F29DBC4373B6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "37BD5F27-CEB6-4FBE-8874-FDAF9DE9004C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "551EBFA0-7757-4717-BB92-33F86C3B7844",
+    "height": 120,
+    "width": 528,
+    "x": 80,
+    "y": 1536
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "408BD25D-9477-4ABD-AF81-57EAB68A8CA7"
+    },
+    {
+      "class": "group",
+      "id": "49DFEAFD-2B21-4F86-991B-79066968D32C"
+    }
+  ],
+  "name": "Reddit",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "1BE0F120-4376-4A8B-8EF3-C258A1BA3B20",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

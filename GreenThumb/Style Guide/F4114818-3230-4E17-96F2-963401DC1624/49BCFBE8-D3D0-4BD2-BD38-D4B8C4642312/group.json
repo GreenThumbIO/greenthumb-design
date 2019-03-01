@@ -1,0 +1,66 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "49BCFBE8-D3D0-4BD2-BD38-D4B8C4642312",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6707142D-3826-4B37-BF88-2A4007CCCF13",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "7FCCD15B-CA0E-413D-A324-2579C2FFB2EC",
+    "height": 120,
+    "width": 528,
+    "x": 80,
+    "y": 1128
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "B6BD876C-6A4C-424A-AD4D-387E03CCDEB8"
+    },
+    {
+      "class": "group",
+      "id": "1E37517F-0526-41BF-8C43-0B22C6EDC319"
+    }
+  ],
+  "name": "Mailchimp",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "6950B3CE-FBE6-47EA-A138-F0BCBAA49EFF",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

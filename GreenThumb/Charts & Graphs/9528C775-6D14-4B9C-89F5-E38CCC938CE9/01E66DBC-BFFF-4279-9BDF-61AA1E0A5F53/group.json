@@ -1,0 +1,66 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "01E66DBC-BFFF-4279-9BDF-61AA1E0A5F53",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D9011272-2DB1-4F80-A66E-08D655881045",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B174BAF6-C0F0-40BD-9800-64E407C228B0",
+    "height": 174,
+    "width": 360,
+    "x": 540,
+    "y": 24
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "021CA521-7D35-4184-86A7-8D3EE03367DF"
+    },
+    {
+      "class": "group",
+      "id": "C7166C2A-5359-4600-BEF2-F22C3B0A59EA"
+    }
+  ],
+  "name": "Bar Chart",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "16B7B586-2CC6-4BE4-B42A-6DFD5B43D7D8",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

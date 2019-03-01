@@ -1,0 +1,66 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "CE439769-707E-4EA6-9945-A4CB8CF4A6D0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "14953D0B-6EF2-453D-BA1D-1F5FAAFEF410",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "7D27786C-6673-4196-9645-0BCC16E6FDEA",
+    "height": 260,
+    "width": 264,
+    "x": 888,
+    "y": 552
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "73C9E6D6-2A2E-4AAF-A3F5-7958376EC7D1"
+    },
+    {
+      "class": "group",
+      "id": "06BE1343-0517-4A4A-90D1-A49E3845CA46"
+    }
+  ],
+  "name": "Card/Type C",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7CEF48E5-D57C-423C-B654-7A0117BF59B4",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

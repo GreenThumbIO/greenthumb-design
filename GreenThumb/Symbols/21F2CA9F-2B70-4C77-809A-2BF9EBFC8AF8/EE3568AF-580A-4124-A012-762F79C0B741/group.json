@@ -1,0 +1,111 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "EE3568AF-580A-4124-A012-762F79C0B741",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7227C5DE-68A7-4247-A3E0-054D6F3821A4",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "1002F035-8E26-4B8C-A5E2-685A88126283",
+    "height": 32,
+    "width": 400,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "2EA6649E-80BC-4548-9E09-A215D0C246D3"
+    },
+    {
+      "class": "text",
+      "id": "EADCABC2-498C-4112-8A43-4BF23FB0BAD1"
+    },
+    {
+      "class": "text",
+      "id": "F8D7444D-D55B-49E1-B90D-D938D1177123"
+    },
+    {
+      "class": "text",
+      "id": "445BE371-CA3A-4E13-89A8-5C4CBF0F1BA2"
+    },
+    {
+      "class": "text",
+      "id": "2AFC3F46-B9A1-4064-8A01-DADDBB3B337A"
+    },
+    {
+      "class": "text",
+      "id": "48219143-BBD7-4CA4-BB1E-7DE893C92F4B"
+    },
+    {
+      "class": "text",
+      "id": "19ED15D1-CEA7-478B-AAD4-9F8365C512E3"
+    },
+    {
+      "class": "text",
+      "id": "F555AE6B-78C6-4A67-9BD2-EF21408FF80F"
+    },
+    {
+      "class": "text",
+      "id": "8AA68EA4-8B7F-4296-8B51-486068C0CE9B"
+    },
+    {
+      "class": "text",
+      "id": "0808B42F-315D-47D1-B446-BAA2D42E7C79"
+    },
+    {
+      "class": "text",
+      "id": "7D3BBAC0-855B-415D-A6A4-0101E8745136"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2DE49DE7-494B-469C-A06E-C7697565E106"
+    }
+  ],
+  "name": "Pagination/Floating",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "09674F91-A97C-4A86-B782-B0A9DFAA0C0C",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "align": 0,
+        "isCollapsing": 1,
+        "spacing": 16,
+        "stackType": 1
+      },
+      "kViewTypeKey": "ADModelStackView"
+    }
+  }
+}

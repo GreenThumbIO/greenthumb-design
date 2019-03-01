@@ -1,0 +1,108 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.9803921568627451,
+    "do_objectID": "4AEB2251-221A-4893-9F00-23287D29E35E",
+    "green": 0.9803921568627451,
+    "red": 0.9803921568627451
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 598,
+  "clippingMaskMode": 0,
+  "do_objectID": "206F5716-0594-4E81-8315-F5FD393DBE6D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D935DF2B-6C6A-4BE9-8F12-31043D908A79",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "DC40B225-2B8E-438F-9ECB-73E6B6D228D9",
+    "height": 52,
+    "width": 184,
+    "x": 5485,
+    "y": 96
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "C96785EB-B18B-42BB-BF1F-400B7E3F931D",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": false,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "C2CD7BFC-22C3-45C6-A84A-B2D2A09F92C8"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "93A55F2E-422F-4DE9-B34A-3F58DA0EFA1A"
+    }
+  ],
+  "name": "Field/Basic + Label",
+  "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "C2CD7BFC-22C3-45C6-A84A-B2D2A09F92C8_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "93A55F2E-422F-4DE9-B34A-3F58DA0EFA1A_symbolID"
+    }
+  ],
+  "resizesContent": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "87471271-7A53-49EB-8582-8D81D90FE2B7",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "B8A24FAF-CE79-4216-A577-9310E4B346CD",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "6346C6B7-C4E4-4718-8BA3-79C6BC8BA76E",
+    "guides": [
+    ]
+  }
+}

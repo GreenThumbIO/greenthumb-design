@@ -1,0 +1,66 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "71050E01-0E38-47EB-9C0B-FEC81BB1A5D6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "73157B6E-96D0-4496-9880-1D5595EC50D7",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "CE144961-1ABE-419A-BD05-1216883AF462",
+    "height": 120,
+    "width": 528,
+    "x": 80,
+    "y": 720
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "7B7F2CE9-5CA9-43D1-BC61-5FEFB1D2B4DA"
+    },
+    {
+      "class": "group",
+      "id": "C3FF7873-1EE5-497A-B550-57E68A51503B"
+    }
+  ],
+  "name": "Dropbox",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "2DA86059-0932-445C-AD36-69B68F3ACEDA",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

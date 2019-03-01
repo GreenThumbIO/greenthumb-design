@@ -1,0 +1,74 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "06C06D12-439D-4FAD-B99F-D215E92AA829",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "DD410A0D-FC24-434C-8BDE-E9934DD5A611",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "1051E6E6-D877-4F2C-9554-D425C4D48ED8",
+    "height": 278,
+    "width": 248,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "3F7066A5-C775-4C23-8D52-ED01DAD5DF97"
+    },
+    {
+      "class": "group",
+      "id": "D48A4D6F-8BB8-4F81-951F-4550524F9E1E"
+    },
+    {
+      "class": "group",
+      "id": "32C15E25-1BC4-4C68-A526-A8617EBB9AEA"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2FEA9A37-8ADF-4EEA-A3AC-022CB099B24D"
+    }
+  ],
+  "name": "Calendar/Events",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "9BA76D40-6BD5-4B03-9812-CA7F7429D19A",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

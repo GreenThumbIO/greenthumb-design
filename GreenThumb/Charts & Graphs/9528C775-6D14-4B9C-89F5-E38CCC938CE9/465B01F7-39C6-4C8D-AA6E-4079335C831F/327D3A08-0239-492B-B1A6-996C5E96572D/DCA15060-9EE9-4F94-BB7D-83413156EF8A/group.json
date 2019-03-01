@@ -1,0 +1,90 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "DCA15060-9EE9-4F94-BB7D-83413156EF8A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "407427B8-0FCE-4817-85A3-9371B12ABEE9",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "474461D2-0013-465B-B07B-5DE0982C7D67",
+    "height": 142,
+    "width": 230,
+    "x": 28,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "18947A86-192E-4F78-87BA-0B0E259D2EE2"
+    },
+    {
+      "class": "rectangle",
+      "id": "76DCF3B2-B001-4E1D-AB83-2701330D36F1"
+    },
+    {
+      "class": "rectangle",
+      "id": "C15D099F-074D-4C7D-8367-3197E61FF541"
+    },
+    {
+      "class": "rectangle",
+      "id": "4A61E234-E83E-4590-A4DF-6C23D73F1DA6"
+    },
+    {
+      "class": "rectangle",
+      "id": "063A09F4-F956-499E-AC50-FF39BE4C24B4"
+    },
+    {
+      "class": "rectangle",
+      "id": "A38CD5DE-6637-4DAB-839C-6591D209194A"
+    },
+    {
+      "class": "rectangle",
+      "id": "E28D76D9-7210-46D4-B294-32A22F6F0E96"
+    }
+  ],
+  "name": "Bars",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A5315991-02A3-46A1-A131-6FA29610FEF1",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "align": 2,
+        "isCollapsing": 1,
+        "spacing": 5,
+        "stackType": 0
+      }
+    }
+  }
+}

@@ -1,0 +1,152 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "4E319FA7-2A7F-4FBE-85F0-02B5BE9DD441",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 1448,
+  "clippingMaskMode": 0,
+  "do_objectID": "FB8E5AD3-85DB-4E51-85C5-FA335066BEF5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "5BAA88AB-D96F-43E9-9DBE-6ED4DE00B110",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "2D4673D8-30F1-465F-A5D4-7693073AA032",
+    "height": 40,
+    "width": 265,
+    "x": 6949,
+    "y": 262
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "A00FB341-4E12-450D-8A28-BDF43E433BB0",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "group",
+      "id": "2F8597FB-D93D-4ABA-9002-FEC21473B3EF"
+    },
+    {
+      "class": "group",
+      "id": "31652D80-5DCA-46F2-AAF8-C272A4E9FBD7"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B2222C08-0521-4B11-8543-72473E010EAB"
+    }
+  ],
+  "name": "Item/Feed/Action",
+  "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "B2222C08-0521-4B11-8543-72473E010EAB_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "60921039-D2DB-45C9-BF29-12BF052626CC_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "60921039-D2DB-45C9-BF29-12BF052626CC_textStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "E4EDDC55-AE90-4EF2-B162-F115905EF6E3_textStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "130CFC75-038C-4757-9413-6B38FFCBCF0F_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "E4A874B1-441C-45F6-8F06-AB18A5623CAB_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "E4EDDC55-AE90-4EF2-B162-F115905EF6E3_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "2312CEF3-95AB-420B-AF9F-FEB2915143D3_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "E4A874B1-441C-45F6-8F06-AB18A5623CAB_textStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "130CFC75-038C-4757-9413-6B38FFCBCF0F_textStyle"
+    }
+  ],
+  "resizesContent": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "DC01112D-E6CA-4558-8F7C-51CC9568BD19",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "5F52AE5F-DD10-4672-95FA-AB60F19AB0C2",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "FB0ED66D-E94B-438F-B815-5F59339A24FE",
+    "guides": [
+    ]
+  }
+}

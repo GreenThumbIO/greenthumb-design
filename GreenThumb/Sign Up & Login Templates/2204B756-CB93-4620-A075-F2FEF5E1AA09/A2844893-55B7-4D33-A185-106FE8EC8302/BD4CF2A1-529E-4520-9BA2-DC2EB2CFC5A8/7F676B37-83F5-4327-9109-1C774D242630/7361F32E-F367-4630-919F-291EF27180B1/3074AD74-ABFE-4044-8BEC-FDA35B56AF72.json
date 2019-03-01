@@ -1,0 +1,93 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "3074AD74-ABFE-4044-8BEC-FDA35B56AF72",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1C24626D-E47E-43B3-9DA4-3A08A9FAD6B0",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E2C561BC-56D4-4C67-997E-6A97E72BC357",
+    "height": 40,
+    "width": 160,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Button/Large",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "3B873ABC-62B3-40D0-987D-73EE7E1B0F0B_stringValue",
+      "value": "Sign Up"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "81963121-AA85-4B92-BEBD-69221A4A0CBC",
+      "overrideName": "75827262-4031-4D89-BE1A-3138AF6F4769/D84DD281-F822-4012-8803-6B5B400004D4_layerStyle",
+      "value": "937B0482-4AD0-43D1-88FE-32D133C8BDF2"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5292E6D5-0E93-4C62-ABB0-7C203828B441",
+      "overrideName": "3B873ABC-62B3-40D0-987D-73EE7E1B0F0B_textStyle",
+      "value": "920C8202-B6CD-41B5-B189-7F52F8EB0E2B"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "53285396-F7AC-4BA3-A4F7-31E8FAB734B7",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "20BB2FE3-B9EF-46E1-895A-67D0D4E47529",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "stashedSizeV": [
+          {
+            "constant": 0,
+            "enabled": 0,
+            "modelID": "constraint_553375ae-bb72-4d7a-9030-70da40b1e8cf",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 0
+          },
+          {
+            "constant": 0,
+            "enabled": 0,
+            "modelID": "constraint_bdf0a9e9-debf-41f4-956a-ca9eebec8233",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 0
+          }
+        ]
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

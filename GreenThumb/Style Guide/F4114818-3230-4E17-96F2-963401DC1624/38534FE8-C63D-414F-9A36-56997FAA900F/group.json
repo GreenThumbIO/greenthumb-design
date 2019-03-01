@@ -1,0 +1,66 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "38534FE8-C63D-414F-9A36-56997FAA900F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "8B32F669-B961-4437-B7DF-8F70A37A1584",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "6C25D4DA-7C97-4DE7-89D7-C2F50FEEF6C0",
+    "height": 120,
+    "width": 528,
+    "x": 80,
+    "y": 1808
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "71050F39-B3D6-4AB4-9224-173F59524F51"
+    },
+    {
+      "class": "group",
+      "id": "D03DB795-7D7F-457E-9728-B90466F1FB16"
+    }
+  ],
+  "name": "Salesforce",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "6FF582B4-5D6F-4518-ABB6-E257283297DB",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

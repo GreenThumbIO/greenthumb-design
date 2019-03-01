@@ -1,0 +1,66 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "C7B643D7-ADA5-4F0A-BD67-3DCA1F32D68D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "AA59D6C6-E6AC-4DF1-A9F4-12F757E8FF01",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "160B8B0B-7039-40EC-ADC7-C0790A7D6CD8",
+    "height": 120,
+    "width": 528,
+    "x": 80,
+    "y": 2080
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "3F492C10-9539-448D-AF30-FDD3852431B8"
+    },
+    {
+      "class": "group",
+      "id": "FC87EA65-A8D9-4788-9E92-EF4863F6F321"
+    }
+  ],
+  "name": "Youtube",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C6567733-C946-4B61-A685-458E6AF76A1B",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

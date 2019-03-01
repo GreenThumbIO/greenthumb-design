@@ -1,0 +1,233 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0,
+            "green": 0,
+            "red": 0
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "Heebo-Regular",
+              "size": 14
+            }
+          },
+          "kerning": 0,
+          "ligature": 0,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0,
+            "allowsDefaultTighteningForTruncation": 0,
+            "maximumLineHeight": 20,
+            "minimumLineHeight": 20
+          }
+        },
+        "length": 8,
+        "location": 0
+      }
+    ],
+    "string": "Column 2"
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "A066460A-DA1D-4DAF-87EB-9D03E2275A08",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "EC78D9F6-2BF9-42C5-9FAC-ABB28FD92C9F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "49D9E58E-553D-45F9-9195-1D7258413553",
+    "height": 20,
+    "width": 60,
+    "x": 256,
+    "y": 14
+  },
+  "glyphBounds": "{{0, 3}, {60, 12}}",
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "Col 2",
+  "nameIsFixed": true,
+  "resizingConstraint": 45,
+  "resizingType": 0,
+  "rotation": 0,
+  "sharedStyleID": "5A7AF95D-9B78-486A-91F0-716E73A3762D",
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "65A17CCF-7EED-49CA-8601-4ADCB48C5F13",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "textStyle": {
+      "_class": "textStyle",
+      "encodedAttributes": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "MSAttributedStringFontAttribute": {
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "Heebo-Regular",
+            "size": 14
+          }
+        },
+        "kerning": 0,
+        "ligature": 0,
+        "paragraphStyle": {
+          "_class": "paragraphStyle",
+          "alignment": 0,
+          "allowsDefaultTighteningForTruncation": 0,
+          "maximumLineHeight": 20,
+          "minimumLineHeight": 20
+        }
+      },
+      "verticalAlignment": 0
+    },
+    "windingRule": 1
+  },
+  "textBehaviour": 0,
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "isAutoWidth": 1
+      }
+    },
+    "com.invisionlabs.data": {
+      "json-plugin-data": "{\"name\":\"countries.json\",\"paths\":{\"selection\":[],\"repeat\":[\"subregion\"]},\"path\":\"2B7855EF-1A5D-47E2-B455-5CF44AD0082A.json\"}"
+    },
+    "com.invisionlabs.duplicate": {
+      "type-duplicate": {
+        "action": "web",
+        "words": [
+          "Jane Austen",
+          "J.R.R. Tolkien",
+          "Markus Zusak",
+          "George Orwell",
+          "F. Scott Fitzgerald",
+          "Charlotte Brontë",
+          "E.B. White",
+          "Margaret Atwood",
+          "Suzanne Collins",
+          "Louisa May Alcott",
+          "C.S. Lewis",
+          "Kathryn Stockett",
+          "Margaret Mitchell",
+          "Lois Lowry",
+          "L.M. Montgomery",
+          "S.E. Hinton",
+          "John Steinbeck",
+          "J.D. Salinger",
+          "Douglas Adams",
+          "George R.R. Martin",
+          "Agatha Christie",
+          "Alice Walker",
+          "Betty Smith",
+          "Daphne du Maurier",
+          "Andy Weir",
+          "Ernest Cline",
+          "Mark Twain",
+          "Diana Gabaldon",
+          "Emily Brontë",
+          "Stephen King",
+          "Antoine de Saint-Exupéry",
+          "Arthur Golden",
+          "Alexandre Dumas",
+          "Dan Brown",
+          "Mary Wollstonecraft Shelley",
+          "Lewis Carroll",
+          "Wilson Rawls",
+          "Michael Crichton",
+          "Larry McMurtry",
+          "Amy Tan",
+          "Frank Herbert",
+          "Ken Follett",
+          "Oscar Wilde",
+          "Zora Neale Hurston",
+          "Mark Haddon",
+          "Charles Dickens",
+          "Stephenie Meyer",
+          "Jack London",
+          "Gillian Flynn",
+          "Alice Sebold",
+          "Gabriel García Márquez",
+          "Herman Melville",
+          "Paulo Coelho",
+          "Toni Morrison",
+          "Jean M. Auel",
+          "John Irving",
+          "Joseph Heller",
+          "Gary Paulsen",
+          "Fyodor Dostoyevsky",
+          "John Green",
+          "Ernest Hemingway",
+          "Leo Tolstoy",
+          "Mario Puzo",
+          "Chinua Achebe",
+          "Hermann Hesse",
+          "Ralph Ellison",
+          "John Knowles",
+          "Ayn Rand",
+          "Nicholas Sparks",
+          "Joseph Conrad",
+          "John Kennedy Toole",
+          "Isaac Asimov",
+          "Chimamanda Ngozi Adichie",
+          "Robert Jordan",
+          "Miguel de Cervantes Saavedra",
+          "William Paul Young",
+          "Jonathan Swift",
+          "V.C. Andrews",
+          "E.L. James",
+          "Tom Clancy",
+          "Tim LaHaye",
+          "Dean Koontz",
+          "John Bunyan",
+          "Junot Díaz",
+          "Marilynne Robinson",
+          "Kurt Vonnegut",
+          "Frank E. Peretti",
+          "Jason Reynolds",
+          "Armistead Maupin",
+          "Rudolfo Anaya",
+          "Robert R. McCammon",
+          "James Baldwin",
+          "Zadie Smith",
+          "Sister Souljah",
+          "James Patterson",
+          "Colson Whitehead",
+          "Rómulo Gallegos",
+          "Dave Hunt",
+          "Harper Lee"
+        ]
+      }
+    }
+  }
+}

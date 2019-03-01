@@ -1,0 +1,102 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "67BCB7B3-41A2-494B-B319-7499F0270014",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "086F0B41-1CD6-42E4-B76D-C0731343825A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B9EB5D2D-F1D4-4FD0-BEA4-B5AEF2B79A5E",
+    "height": 204,
+    "width": 248,
+    "x": 8,
+    "y": 8
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "E7A347E6-C42C-41B1-BAAD-1D35218187BB"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A32B052F-B58A-4EC3-A53A-87B02E00D8E8"
+    }
+  ],
+  "name": "Stack",
+  "nameIsFixed": true,
+  "resizingConstraint": 26,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "2A196E88-82BB-4045-83F0-99CCE00D2575",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "align": 0,
+        "constraints": {
+          "automatic": 1,
+          "left": {
+            "constant": 8,
+            "enabled": 1,
+            "modelID": "constraint_10cade4e-0415-43ad-b372-f23c3ec2862a",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 0
+          },
+          "modelID": "viewConstraints_da7f3d0d-21e8-42bc-ba09-32e3766f809f",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "right": {
+            "constant": 8,
+            "enabled": 1,
+            "modelID": "constraint_a54743fa-8daa-4b84-af7f-cba0757fbe87",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 0
+          },
+          "scaleFactor": 1,
+          "top": {
+            "constant": 8,
+            "enabled": 1,
+            "modelID": "constraint_bded867b-75d1-4a91-bb8d-4ab886a1f602",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 0
+          }
+        },
+        "isCollapsing": 1,
+        "spacing": 16,
+        "stackType": 0
+      },
+      "kViewTypeKey": "ADModelStackView"
+    }
+  }
+}

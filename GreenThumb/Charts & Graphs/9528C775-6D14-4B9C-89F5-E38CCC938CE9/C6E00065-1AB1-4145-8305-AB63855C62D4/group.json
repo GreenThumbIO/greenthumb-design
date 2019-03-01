@@ -1,0 +1,66 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "C6E00065-1AB1-4145-8305-AB63855C62D4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "14C0E40C-9A62-4825-AD7C-A9D3995C11D9",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "6FE90699-5476-43E1-B412-E6D6D7AC4BD6",
+    "height": 174,
+    "width": 360,
+    "x": 540,
+    "y": 618
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "5AD43752-7C0E-4C6C-A8B3-A8B39D4E9DA1"
+    },
+    {
+      "class": "group",
+      "id": "86BB1466-ED04-4AD8-9DEA-69BC1C36623C"
+    }
+  ],
+  "name": "Line Chart",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "987C7A36-D7A8-4FEC-9E7D-4677F4AF95E3",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

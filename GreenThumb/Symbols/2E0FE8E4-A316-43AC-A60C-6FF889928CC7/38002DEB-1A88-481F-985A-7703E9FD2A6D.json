@@ -1,0 +1,233 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0,
+            "green": 0,
+            "red": 0
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "Heebo-ExtraBold",
+              "size": 14
+            }
+          },
+          "kerning": 0,
+          "ligature": 0,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0,
+            "allowsDefaultTighteningForTruncation": 0,
+            "maximumLineHeight": 20,
+            "minimumLineHeight": 20
+          }
+        },
+        "length": 8,
+        "location": 0
+      }
+    ],
+    "string": "Column 1"
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "38002DEB-1A88-481F-985A-7703E9FD2A6D",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1A7E7970-E5C8-4732-A402-8C9543BEF6A7",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C6746951-7659-4411-B89A-B7C1B225BEEF",
+    "height": 20,
+    "width": 61,
+    "x": 48,
+    "y": 14
+  },
+  "glyphBounds": "{{0, 3}, {58, 12}}",
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "Col 1",
+  "nameIsFixed": true,
+  "resizingConstraint": 41,
+  "resizingType": 0,
+  "rotation": 0,
+  "sharedStyleID": "3A4458C0-4DE1-4B15-9681-AA5CA612DE53",
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "0EFEEE6E-8279-4637-8BA4-0701ADC1572A",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "textStyle": {
+      "_class": "textStyle",
+      "encodedAttributes": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "MSAttributedStringFontAttribute": {
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "Heebo-ExtraBold",
+            "size": 14
+          }
+        },
+        "kerning": 0,
+        "ligature": 0,
+        "paragraphStyle": {
+          "_class": "paragraphStyle",
+          "alignment": 0,
+          "allowsDefaultTighteningForTruncation": 0,
+          "maximumLineHeight": 20,
+          "minimumLineHeight": 20
+        }
+      },
+      "verticalAlignment": 0
+    },
+    "windingRule": 1
+  },
+  "textBehaviour": 0,
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "isAutoWidth": 1
+      }
+    },
+    "com.invisionlabs.data": {
+      "json-plugin-data": "{\"name\":\"countries.json\",\"paths\":{\"selection\":[],\"repeat\":[\"name\",\"common\"]},\"path\":\"2B7855EF-1A5D-47E2-B455-5CF44AD0082A.json\"}"
+    },
+    "com.invisionlabs.duplicate": {
+      "type-duplicate": {
+        "action": "web",
+        "words": [
+          "Pride and Prejudice",
+          "The Lord of the Rings (The Lord of the Rings, #1-3)",
+          "The Book Thief",
+          "1984",
+          "The Great Gatsby",
+          "Jane Eyre",
+          "Charlotte's Web",
+          "The Handmaid's Tale",
+          "The Hunger Games (The Hunger Games, #1)",
+          "Little Women",
+          "The Chronicles of Narnia (Chronicles of Narnia, #1-7)",
+          "The Help",
+          "Gone with the Wind",
+          "The Giver",
+          "Anne of Green Gables (Anne of Green Gables, #1)",
+          "The Outsiders",
+          "The Grapes of Wrath",
+          "The Catcher in the Rye",
+          "The Hitchhiker's Guide to the Galaxy (Hitchhiker's Guide to the Galaxy, #1)",
+          "A Game of Thrones (A Song of Ice and Fire, #1)",
+          "And Then There Were None",
+          "The Color Purple",
+          "A Tree Grows in Brooklyn",
+          "Rebecca",
+          "The Martian",
+          "Ready Player One (Ready Player One, #1)",
+          "The Adventures of Tom Sawyer",
+          "Outlander (Outlander, #1)",
+          "Wuthering Heights",
+          "The Stand",
+          "The Little Prince",
+          "Memoirs of a Geisha",
+          "The Count of Monte Cristo",
+          "The Da Vinci Code (Robert Langdon, #2)",
+          "Frankenstein",
+          "Alice's Adventures in Wonderland (Alice's Adventures in Wonderland, #1)",
+          "Where the Red Fern Grows",
+          "Jurassic Park (Jurassic Park, #1)",
+          "Lonesome Dove",
+          "The Joy Luck Club",
+          "Dune",
+          "The Pillars of the Earth (Kingsbridge, #1)",
+          "The Picture of Dorian Gray",
+          "Their Eyes Were Watching God",
+          "The Curious Incident of the Dog in the Night-Time",
+          "Great Expectations",
+          "Twilight (Twilight, #1)",
+          "The Call of the Wild",
+          "Gone Girl",
+          "The Lovely Bones",
+          "One Hundred Years of Solitude",
+          "Moby-Dick or, The Whale",
+          "The Alchemist",
+          "Beloved",
+          "The Clan of the Cave Bear (Earth's Children, #1)",
+          "A Prayer for Owen Meany",
+          "Catch-22 (Catch-22, #1)",
+          "Hatchet",
+          "Crime and Punishment",
+          "Looking for Alaska",
+          "The Sun Also Rises",
+          "War and Peace",
+          "The Godfather",
+          "Things Fall Apart (The African Trilogy, #1)",
+          "Siddhartha",
+          "Invisible Man",
+          "A Separate Peace",
+          "Atlas Shrugged",
+          "The Notebook (The Notebook, #1)",
+          "Heart of Darkness",
+          "A Confederacy of Dunces",
+          "Foundation (Foundation, #1)",
+          "Americanah",
+          "The Eye of the World (Wheel of Time, #1)",
+          "Don Quixote",
+          "The Shack",
+          "Gulliver's Travels",
+          "Flowers in the Attic (Dollanganger, #1)",
+          "Fifty Shades of Grey (Fifty Shades, #1)",
+          "The Hunt for Red October (Jack Ryan Universe, #4)",
+          "Left Behind (Left Behind, #1)",
+          "Watchers",
+          "The Pilgrim's Progress",
+          "The Brief Wondrous Life of Oscar Wao",
+          "Gilead (Gilead, #1)",
+          "The Sirens of Titan",
+          "This Present Darkness (Darkness, #1)",
+          "Ghost (Track, #1)",
+          "Tales of the City (Tales of the City, #1)",
+          "Bless Me, Ultima",
+          "Swan Song",
+          "Another Country",
+          "White Teeth",
+          "The Coldest Winter Ever",
+          "I, Alex Cross (Alex Cross, #16)",
+          "The Intuitionist",
+          "Doña Bárbara",
+          "Mind Invaders",
+          "To Kill a Mockingbird"
+        ]
+      }
+    }
+  }
+}

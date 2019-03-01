@@ -1,0 +1,66 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "920EE01D-E72A-4903-B818-7D37ADBD2258",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "00C31ED4-5BAF-4911-98BA-7F4EF3B156E6",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5C10DD74-A34A-4C2A-B484-7333EABD14E3",
+    "height": 120,
+    "width": 120,
+    "x": 136,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "F0859823-CDE7-4F44-AF02-3EDD7E488290"
+    },
+    {
+      "class": "text",
+      "id": "E67166BB-4C51-4741-B1A0-9F201BF706FE"
+    }
+  ],
+  "name": "Shadow Level 2",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "4EAD296A-6750-4537-8448-49CF481C2756",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

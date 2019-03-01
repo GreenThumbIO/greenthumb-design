@@ -1,0 +1,93 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "967D39E4-8883-45F3-99C4-F4ACFA82D70D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 14,
+    "width": 14,
+    "x": 14,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Badge/Basic",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "E4B071BB-06A8-40F0-AE7C-246AB7CB500D_stringValue",
+      "value": "3"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "E4B071BB-06A8-40F0-AE7C-246AB7CB500D_textStyle",
+      "value": "5A2D01F8-CA28-456B-B320-0BDDC137408A"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "C3D0C3EB-E5DF-41E4-BD8C-2BA1BE4B007F_symbolID",
+      "value": "40D41F0A-147E-4059-8AED-00C2AE36C551"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "C3D0C3EB-E5DF-41E4-BD8C-2BA1BE4B007F/CDD839A7-A5BD-4387-A34E-230ED2DE1539_layerStyle",
+      "value": "E6269F62-979F-4077-A088-A4B9693274C5"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "88251463-9259-48F8-96B5-BCC8A2793A91",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "stashedSizeV": [
+          {
+            "constant": 0,
+            "enabled": 0,
+            "modelID": "constraint_2b9a5e13-6961-4f87-a840-d67f06cad501",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 0
+          },
+          {
+            "constant": 0,
+            "enabled": 0,
+            "modelID": "constraint_b766cf89-51dd-4bc4-9a2a-ed7e1e684170",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 0
+          }
+        ]
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

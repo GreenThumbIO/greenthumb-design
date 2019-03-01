@@ -1,0 +1,80 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "185EF7B4-BEAD-4040-99E8-3B49433DBA95",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 278,
+    "width": 248,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "9AA6F2B3-A0DE-4532-A8D8-04AF0245A6F8"
+    },
+    {
+      "class": "group",
+      "id": "71B95AB0-719C-4738-8A66-5313494002C8"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CF4E599B-1093-4C7C-8571-7CE954B0A670"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CBD01CF6-AF89-4E16-B450-17DFFF6C5B24"
+    },
+    {
+      "class": "text",
+      "id": "8C30F5A4-3C59-481D-BD7B-B1ACA3031B5E"
+    },
+    {
+      "class": "group",
+      "id": "750167BB-99C6-4F64-AC5A-8B4E60C8A40D"
+    }
+  ],
+  "name": "Calendar/Year",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      },
+      "kViewTypeKey": ""
+    }
+  }
+}

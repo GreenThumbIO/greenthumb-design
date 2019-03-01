@@ -1,0 +1,89 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "31A13C80-8323-4B5A-8FB6-B8225413A420",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 20,
+    "width": 168,
+    "x": 0,
+    "y": 40
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Toggle/Radio",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "6E524300-5822-45A6-9C5A-08566ECC8079",
+      "overrideName": "97032D82-D94F-4D4F-91D3-D288C3303909_stringValue",
+      "value": "Maybe"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E57031F1-ADF1-47D2-9619-F8592C4A7DA6",
+      "overrideName": "97032D82-D94F-4D4F-91D3-D288C3303909_textStyle",
+      "value": "BB59A0E6-FA30-45F7-A1EA-E13FB8870331"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "CDEA699C-110E-4B7E-B2C8-CB741708D8AB",
+      "overrideName": "A9E83553-3C03-4A6B-9868-11CA80E7918C/385F2F2A-E9C2-4715-9B5B-73E81D3BD110_layerStyle",
+      "value": "0998619D-588D-431A-916D-A6901DF8087F"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "borders": [
+      {
+        "_class": "border",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.592,
+          "green": 0.592,
+          "red": 0.592
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "position": 0,
+        "thickness": 1
+      }
+    ],
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "895CB375-6E6C-4E88-B8F7-5CF608C3163C",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

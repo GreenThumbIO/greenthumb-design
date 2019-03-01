@@ -1,0 +1,96 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "ECDCE7A8-A87E-4F9B-8A5A-23226A535227",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E6054419-277F-41F9-B33D-77035F92887B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9033FD8C-2972-43C3-B234-35E3E08DAC11",
+    "height": 32,
+    "width": 32,
+    "x": 120,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Field/Basic",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "330D6489-141E-4201-A4CA-2572620CD09F/E170BF0E-368B-4081-9635-22859393BCE7/D84DD281-F822-4012-8803-6B5B400004D4_layerStyle",
+      "value": "83BDD94A-D1E4-4FC2-B772-0C7CB26C95A7"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "5F8A9E69-FFB4-4BE2-B779-816830E1AFBF_stringValue",
+      "value": "6"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "27AF43AE-A037-435E-A7C5-B961032F27C3_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "5F8A9E69-FFB4-4BE2-B779-816830E1AFBF_textStyle",
+      "value": "AFEEF6F7-390C-414B-BF38-A2F6C9CD385B"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "13BC59CC-33A9-4817-8C8B-38902A05CD52",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "DB00A1FB-C22A-4D15-A22C-6D9F9A363C71",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "stashedSizeV": [
+          {
+            "constant": 0,
+            "enabled": 0,
+            "modelID": "constraint_436c9caf-16a3-493d-9115-27636567c7b2",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 0
+          },
+          {
+            "constant": 0,
+            "enabled": 0,
+            "modelID": "constraint_0f321f3f-d237-4f1d-b16a-6c0004a20808",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 0
+          }
+        ]
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

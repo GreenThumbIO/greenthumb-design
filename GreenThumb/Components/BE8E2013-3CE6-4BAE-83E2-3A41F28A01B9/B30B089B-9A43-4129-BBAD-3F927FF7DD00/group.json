@@ -1,0 +1,66 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "B30B089B-9A43-4129-BBAD-3F927FF7DD00",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "603D37DC-E03B-489F-B9BE-249DF0524D79",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "54338549-587E-41E4-9520-31D76CB78CB3",
+    "height": 308,
+    "width": 264,
+    "x": 312,
+    "y": 532
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "EEDAA4AC-5ADE-4F4B-89FA-D21F7EAA7C48"
+    },
+    {
+      "class": "group",
+      "id": "C41DCEF1-F48C-450A-9B4A-99727698C433"
+    }
+  ],
+  "name": "Card/Type J",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "2656560B-0758-4BCE-BF7E-DC21D094DBC2",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

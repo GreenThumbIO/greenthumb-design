@@ -1,0 +1,79 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "EEB3C5AE-A917-4A49-9E6F-191BF0D28C04",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0932B7CE-B5D2-4571-B817-41D04EB595EF",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C18A9C84-B3F5-4AF9-A0C1-CFE80E3579C8",
+    "height": 409,
+    "width": 464,
+    "x": 168,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "448B30CC-B496-4C4F-B2C2-8D5FCDC471BD"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5A1A7B86-4D63-40B7-AB5E-A85FA06A8A44"
+    },
+    {
+      "class": "group",
+      "id": "2B8861C4-3469-42D9-A351-D24810E3917C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "38A0D006-1008-4988-84DF-152A78FAA6FA"
+    }
+  ],
+  "name": "Email",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "57E97BFC-B24B-4EA2-9618-0A7542DC396B",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "align": 2,
+        "isCollapsing": 1,
+        "spacing": 40,
+        "stackType": 0
+      },
+      "kViewTypeKey": "ADModelStackView"
+    }
+  }
+}
